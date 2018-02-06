@@ -123,3 +123,11 @@ set2
 set3
 set1.isdisjoint(set2)
 setaaaaaaaaaaaaa
+
+l=[1,2,3]
+for i in range(len(l)):
+    print(i,end='')
+help(len)
+l[1,2,3]
+l.insert?
+
